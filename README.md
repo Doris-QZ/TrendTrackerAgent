@@ -4,7 +4,7 @@ Struggling to keep up with the rapid developments in AI research and industry? T
 
 Built out of a personal need to stay updated on complex AI/ML topics, this project offers a reliable foundation for deep research. It bridges the gap between academic research and industry trends using credible, data-driven sources.  
 
-## 📌 📚What does TrendTracker do?
+## 📌 What does TrendTracker do?
 
 Simply input an AI/ML research topic, and the agent performs deep-dive research to generate a comprehensive technical blog post for you.  
 
