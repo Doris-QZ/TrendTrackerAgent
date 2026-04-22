@@ -1,4 +1,4 @@
-# TrendTracker-Agent using LangGraph 🤖
+# 🤖 TrendTracker-Agent using LangGraph
 
 Struggling to keep up with the rapid developments in AI research and industry? TrendTracker-Agent is designed to provide deep-dive insights into specific AI technologies, giving you a clear picture of how they evolved and where they are headed.
 
